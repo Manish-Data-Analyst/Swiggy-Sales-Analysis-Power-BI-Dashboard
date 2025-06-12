@@ -24,3 +24,13 @@ I'm Excited to share my latest Power BI dashboard project, where I’ve transfor
 <br>
 
 <img src="https://github.com/Manish-Data-Analyst/Swiggy-Sales-Analysis-Power-BI-Dashboard/blob/cf0a9117c19a8800eeeb2253545d62c8bdcd5d1b/Swiggy%20Dashboard_page-0002.jpg" alt="Image Discription" width="600">
+
+<br>
+
+<img src="https://github.com/Manish-Data-Analyst/Swiggy-Sales-Analysis-Power-BI-Dashboard/blob/69118977ee1b3cbf696cc7ad250f038210f37294/Swiggy%20Dashboard_page-0003.jpg" alt="Image Discription" width="600">
+
+<br>
+
+<img src="https://github.com/Manish-Data-Analyst/Swiggy-Sales-Analysis-Power-BI-Dashboard/blob/69118977ee1b3cbf696cc7ad250f038210f37294/Swiggy%20Dashboard_page-0004.jpg" alt="Image Discription" width="600">
+
+
