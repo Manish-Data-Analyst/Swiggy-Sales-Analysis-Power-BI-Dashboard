@@ -16,3 +16,11 @@ I'm Excited to share my latest Power BI dashboard project, where I’ve transfor
 👩‍💼👨‍💼 User segmentation by age, gender, and occupation
 <br>
 🌟 Restaurant ratings featuring top brands like Domino’s, KFC & Faasos
+
+**Dashboard Image**
+
+<img src="https://github.com/Manish-Data-Analyst/Swiggy-Sales-Analysis-Power-BI-Dashboard/blob/cf0a9117c19a8800eeeb2253545d62c8bdcd5d1b/Swiggy%20Dashboard_page-0001.jpg" alt="Image Discription" width="600">
+
+<br>
+
+<img src="https://github.com/Manish-Data-Analyst/Swiggy-Sales-Analysis-Power-BI-Dashboard/blob/cf0a9117c19a8800eeeb2253545d62c8bdcd5d1b/Swiggy%20Dashboard_page-0002.jpg" alt="Image Discription" width="600">
